@@ -29,7 +29,7 @@ target_metadata = current_app.extensions['migrate'].db.metadata
 
 
 def run_migrations_offline():
-    """Run migrations in 'offline' mode.
+    """This is the function that run's migrations in 'offline' mode.
 
     This configures the context with just a URL
     and not an Engine, though an Engine is acceptable
