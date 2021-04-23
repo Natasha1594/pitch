@@ -77,5 +77,6 @@ No known bugs so far. If found drop me an email.
 ---
 
 ## License and Copyright
+<span>&#169;</span>Copyright 2021 Natasha1594
 
 
