@@ -32,6 +32,7 @@ This web application that will allow users to post pitches, like, dislike and co
     - Postgressql
     - Heroku
 
+---
 
 ## Set-up and Installation
     1. Clone or download the Repo
