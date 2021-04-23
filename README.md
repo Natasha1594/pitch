@@ -72,7 +72,7 @@ https://tasha-onepitch.herokuapp.com/
 ---
 
 ## Known bugs
-No known bugs so far. If found drop me an email.
+No known bugs so far. If found drop me an email, kinuthianatasha@gmail.com.
 
 ---
 
