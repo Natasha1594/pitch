@@ -1,3 +1,7 @@
+** Version 1.0.0 **
+
+---
+
 # Tasha-OnePitch
 
 ---
