@@ -60,6 +60,8 @@ This web application that will allow users to post pitches, like, dislike and co
 ### Contributions
 Yet to complete all tests for each model class. If you have ideas you may contribute to this project.
 
+---
+
 ## Known bugs
 No known bugs so far. If found drop me an email.
 
