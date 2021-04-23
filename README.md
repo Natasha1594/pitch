@@ -66,6 +66,10 @@ Yet to complete all tests for each model class. If you have ideas you may contri
 
 ---
 
+## Here's a link to my deployed page
+
+
+
 ## Known bugs
 No known bugs so far. If found drop me an email.
 
