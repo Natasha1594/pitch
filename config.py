@@ -2,7 +2,7 @@ import os
 
 class Config:
     '''
-    General configuration parent class
+    This is the general configuration parent class
     '''
     SQLALCHEMY_DATABASE_URI = "postgresql+psycopg2://natasha:1594@localhost/pitch"
     SECRET_KEY=os.environ.get('SECRET_KEY')
