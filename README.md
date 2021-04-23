@@ -22,7 +22,7 @@ This web application that will allow users to post pitches, like, dislike and co
     - Users can as well create their own pitch.
 
 
-
+---
 
 ## Technologies Used
     - Python 3.6
