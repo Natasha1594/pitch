@@ -55,6 +55,8 @@ This web application that will allow users to post pitches, like, dislike and co
     8. Run ./start.py
     9. Access the application through `localhost:5000`
 
+    ---
+
 ### Contributions
 Yet to complete all tests for each model class. If you have ideas you may contribute to this project.
 
