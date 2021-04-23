@@ -6,6 +6,8 @@
 
 This web application that will allow users to post pitches, like, dislike and comment on other pitches.
 
+---
+
 ## Features
 - The home page allows users to see various pitches from the following Categories:
     - Interview
